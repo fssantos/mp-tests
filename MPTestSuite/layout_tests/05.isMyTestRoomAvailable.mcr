@@ -13,4 +13,4 @@ SET CLIPBOARD : Teste 05;The Test Room is available;PASSED : 0 : Please enter th
 ELSE
 SET CLIPBOARD : Teste 05;The Test Room is available;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

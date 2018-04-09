@@ -31,4 +31,4 @@ SET CLIPBOARD : Preconfigurator 05; Default Layout is applied; PASSED : 0 : Plea
 ELSE
 SET CLIPBOARD : Preconfigurator 05; Default Layout is applied; FALSE : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

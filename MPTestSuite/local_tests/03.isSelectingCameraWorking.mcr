@@ -28,4 +28,4 @@ ELSE
 SET CLIPBOARD : Teste 03;selecting and unselecting camera is working correclty;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
 Mouse : 1175 : 249 : Click : 0 : 0 : 0
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

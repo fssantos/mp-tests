@@ -34,4 +34,4 @@ PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mc
 Mouse : 1106 : 650 : Click : 0 : 0 : 0
 LABEL : SKIP_TEST_DUE_TO_BUGS
 SET CLIPBOARD : THE TEST WAS SKIPPED DUE TO BUGS (loading rooms list) : 0 : Please enter the text to store in clipboard:
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

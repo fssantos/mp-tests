@@ -14,4 +14,4 @@ SET CLIPBOARD : Test 14;is sharing content and stopping it correctly;PASSED : 0 
 ELSE
 SET CLIPBOARD : Test 14;is sharing content and stopping it correctly;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

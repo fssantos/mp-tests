@@ -7,4 +7,4 @@ SET CLIPBOARD : Teste 06;Checks if dial is ready;PASSED : 0 : Please enter the t
 ELSE
 SET CLIPBOARD : Teste 06;Checks if dial is ready;FALSE : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

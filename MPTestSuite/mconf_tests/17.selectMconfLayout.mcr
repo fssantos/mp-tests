@@ -27,4 +27,4 @@ SET CLIPBOARD : Teste 17;is applying Mconf Layout ok;PASSED : 0 : Please enter t
 ELSE
 SET CLIPBOARD : Teste 17;is applying Mconf Layout ok;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

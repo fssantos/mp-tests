@@ -40,4 +40,4 @@ SET CLIPBOARD : Teste 07;Is rendering layouts correctly in New Layout window;PAS
 ELSE
 SET CLIPBOARD : Teste 07;Is rendering layouts correctly in New Layout window;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

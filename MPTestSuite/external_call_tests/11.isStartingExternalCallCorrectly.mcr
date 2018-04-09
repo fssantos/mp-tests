@@ -1,4 +1,4 @@
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\external_call_tests\tool_selectDefaultLayout.mcr
+PLAY MACRO : ..\external_call_tests\tool_selectDefaultLayout.mcr
 SET CLIPBOARD : 0 : 0 : Please enter the text to store in clipboard:
 SWITCH TO WINDOW : Chrome : 0
 DELAY : 2000
@@ -21,4 +21,4 @@ SET CLIPBOARD : Teste 11;Is Starting an External call correctly;PASSED : 0 : Ple
 ELSE
 SET CLIPBOARD : Teste 11;Is Starting an External call correctly;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

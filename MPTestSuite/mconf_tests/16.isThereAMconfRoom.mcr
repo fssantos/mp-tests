@@ -18,4 +18,4 @@ SET CLIPBOARD : Teste 16;There is a Mconf Room already configured;PASSED : 0 : P
 ELSE
 SET CLIPBOARD : Teste 16;There is a Mconf Room already configured;FAILED (all the following fails could be caused due to this bad Mconf room configuration) : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr
