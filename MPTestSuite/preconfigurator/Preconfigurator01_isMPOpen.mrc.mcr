@@ -14,4 +14,4 @@ SET CLIPBOARD : Preconfiguration 01;Should have a MP opened;PASSED : 0 : Please 
 ELSE
 SET CLIPBOARD : Preconfiguration 01;Should have a MP opened;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
-PLAY MACRO : C:\Users\PRAV211\Desktop\MPTestSuite\tools\tool_writeResultToCsV.mcr
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

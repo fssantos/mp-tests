@@ -208,4 +208,5 @@ Test 14;is sharing content and stopping it correctly;FAILED;858,05MB;09/04/2018;
 Teste 15;Is finishing an external call correctly;PASSED;807,1MB;09/04/2018;09:55:09
 
 The test suite above was concluded on 09/04/2018;09:55:09
-----------------------------
+----------------------------Preconfiguration 01;Should have a MP opened;PASSED;190,49MB;09/04/2018;11:23:09
+Preconfiguration 01;Should have a MP opened;PASSED;270,32MB;09/04/2018;11:31:08
