@@ -3,7 +3,7 @@ Keyboard : Enter : KeyPress
 IF PROCESS EXISTS : Multipresenca
 SET CLIPBOARD : 1 : 0 : Please enter the text to store in clipboard:
 ELSE
-OPEN FILE : C:\MultipresencaTeste\bin\ProcessesManager.exe :  : 0
+OPEN FILE : C:\Multipresencaip_12.131\bin\ProcessesManager.exe :  : 0
 WAIT FOR : ^(?!.*Room).*Multipresença.*$ : appear : 0 : 1
 SET CLIPBOARD : 1 : 0 : Please enter the text to store in clipboard:
 DELAY : 3000
