@@ -1,326 +1,102 @@
 ﻿
-----------------------------
-Starting a new text suite on 10/04/2018;14:00:14
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;MB;10/04/2018;14:00:17
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;MB;10/04/2018;14:00:18
-Preconfigurator 03;The Test Room exists;PASSED;22,21MB;10/04/2018;14:00:23
-Preconfigurator 04; the second test machine is available;FAILED;74,7MB;10/04/2018;14:00:28
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:00:44
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;180,77MB;10/04/2018;14:00:44
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;178,04MB;10/04/2018;14:00:45
-Preconfigurator 03;The Test Room exists;PASSED;181,7MB;10/04/2018;14:00:51
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:01:37
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;186,57MB;10/04/2018;14:01:38
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;189,71MB;10/04/2018;14:01:39
-Preconfigurator 03;The Test Room is exists;FAILED;188,02MB;10/04/2018;14:01:47
-Preconfigurator 04; the second test machine is available;FAILED;192,34MB;10/04/2018;14:01:53
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:02:57
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;200,04MB;10/04/2018;14:02:57
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;203,3MB;10/04/2018;14:02:58
-Preconfigurator 03;The Test Room exists;PASSED;203,82MB;10/04/2018;14:03:04
-Preconfigurator 04; the second test machine is available;FAILED;201,87MB;10/04/2018;14:03:09
-Preconfigurator 05; Default Layout is applied; FALSE;205,39MB;10/04/2018;14:03:13
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:04:26
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;215,23MB;10/04/2018;14:04:26
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;215,49MB;10/04/2018;14:04:27
-Preconfigurator 03;The Test Room exists;PASSED;213,54MB;10/04/2018;14:04:33
-Preconfigurator 04; the second test machine is available;FAILED;217,06MB;10/04/2018;14:04:38
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:05:16
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;220,37MB;10/04/2018;14:05:17
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;220,63MB;10/04/2018;14:05:18
-Preconfigurator 03;The Test Room exists;PASSED;224,81MB;10/04/2018;14:05:23
-Preconfigurator 04; the second test machine is available;PASSED;222,59MB;10/04/2018;14:05:29
-Preconfigurator 05; Default Layout is applied; FALSE;223,12MB;10/04/2018;14:05:33
-Teste 01;MP has oppened correcty;PASSED;226,64MB;10/04/2018;14:05:37
-Teste 02;Microphone settings are working correctly;PASSED;227,64MB;10/04/2018;14:05:51
-Teste 03;selecting and unselecting camera is working correclty;FAILED;217,71MB;10/04/2018;14:06:12
-TEST SKIPPED DUE TO BUGS (loading rooms list);217,71MB;10/04/2018;14:06:12
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);217,71MB;10/04/2018;14:06:12
-Teste 05;The Test Room is available;FAILED;217,71MB;10/04/2018;14:06:20
-Teste 06;Checks if dial is ready;FALSE;217,71MB;10/04/2018;14:06:28
-Teste 07;Is rendering layouts correctly in New Layout window;FAILED;217,71MB;10/04/2018;14:06:34
-Teste 08;is creating Mconf layout sucessfully;FAILED;217,71MB;10/04/2018;14:06:44
-Teste 09;Is starting a call correctly;FAILED;217,71MB;10/04/2018;14:06:57
-Teste 10;Is Receiving Video Correctly;FAILED;217,71MB;10/04/2018;14:06:59
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:21:23
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;190,79MB;10/04/2018;14:21:24
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;190,79MB;10/04/2018;14:21:25
-Preconfigurator 03;The Test Room is exists;FAILED;191,71MB;10/04/2018;14:21:32
-Preconfigurator 04; the second test machine is available;FAILED;192,97MB;10/04/2018;14:21:38
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:24:35
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;220,21MB;10/04/2018;14:24:35
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;220,47MB;10/04/2018;14:24:36
-Preconfigurator 03;The Test Room exists;PASSED;224,53MB;10/04/2018;14:24:43
-Preconfigurator 04; the second test machine is available;PASSED;222,71MB;10/04/2018;14:24:50
-Preconfigurator 05; Default Layout is applied; PASSED;223,23MB;10/04/2018;14:24:55
-Teste 01;MP has oppened correcty;PASSED;224,92MB;10/04/2018;14:24:59
-Teste 02;Microphone settings are working correctly;PASSED;226,72MB;10/04/2018;14:25:14
-Teste 03;selecting and unselecting camera is working correclty;PASSED;259,82MB;10/04/2018;14:25:35
-TEST SKIPPED DUE TO BUGS (loading rooms list);262,82MB;10/04/2018;14:25:35
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);259,82MB;10/04/2018;14:25:35
-Teste 05;The Test Room is available;FAILED;260,61MB;10/04/2018;14:25:41
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:26:25
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;267,7MB;10/04/2018;14:26:26
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;267,69MB;10/04/2018;14:26:27
-Preconfigurator 03;The Test Room exists;PASSED;268,74MB;10/04/2018;14:26:33
-Preconfigurator 04; the second test machine is available;PASSED;270,05MB;10/04/2018;14:26:40
-Preconfigurator 05; Default Layout is applied; PASSED;273,84MB;10/04/2018;14:26:46
-Teste 01;MP has oppened correcty;PASSED;271,63MB;10/04/2018;14:26:50
-Teste 02;Microphone settings are working correctly;PASSED;276,49MB;10/04/2018;14:27:05
-Teste 03;selecting and unselecting camera is working correclty;PASSED;304,93MB;10/04/2018;14:27:26
-TEST SKIPPED DUE TO BUGS (loading rooms list);304,93MB;10/04/2018;14:27:26
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);307,93MB;10/04/2018;14:27:26
-Teste 05;The Test Room is available;PASSED;306,24MB;10/04/2018;14:27:32
-Teste 06;Checks if dial is ready;PASSED;307,3MB;10/04/2018;14:27:36
-Teste 07;Is rendering layouts correctly in New Layout window;PASSED;309,65MB;10/04/2018;14:27:56
-Teste 08;is creating Mconf layout sucessfully;FAILED;318,32MB;10/04/2018;14:28:50
-Teste 09;Is starting a call correctly;FAILED;320,41MB;10/04/2018;14:29:04
-Teste 10;Is Receiving Video Correctly;FAILED;320,68MB;10/04/2018;14:29:07
-
-----------------------------
-Starting a new text suite on 10/04/2018;14:32:51
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;355,56MB;10/04/2018;14:32:51
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;355,83MB;10/04/2018;14:32:52
-Preconfigurator 03;The Test Room exists;PASSED;356,62MB;10/04/2018;14:32:59
-Preconfigurator 04; the second test machine is available;PASSED;357,92MB;10/04/2018;14:33:06
-Preconfigurator 05; Default Layout is applied; PASSED;358,46MB;10/04/2018;14:33:11
-Teste 01;MP has oppened correcty;PASSED;358,99MB;10/04/2018;14:33:16
-Teste 02;Microphone settings are working correctly;PASSED;362,08MB;10/04/2018;14:33:30
-Teste 03;selecting and unselecting camera is working correclty;PASSED;394,94MB;10/04/2018;14:33:51
-TEST SKIPPED DUE TO BUGS (loading rooms list);394,94MB;10/04/2018;14:33:51
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);391,94MB;10/04/2018;14:33:52
-Teste 05;The Test Room is available;PASSED;392,86MB;10/04/2018;14:33:57
-Teste 06;Checks if dial is ready;PASSED;393,38MB;10/04/2018;14:34:02
-Teste 07;Is rendering layouts correctly in New Layout window;PASSED;396,54MB;10/04/2018;14:34:22
-Teste 08;is creating Mconf layout sucessfully;FAILED;406,88MB;10/04/2018;14:35:12
-Teste 08;is creating Mconf layout sucessfully;FAILED;472,12MB;10/04/2018;14:42:33
-Teste 08;is creating Mconf layout sucessfully;FAILED;483,29MB;10/04/2018;14:44:08
-Teste 08;is creating Mconf layout sucessfully;FAILED;494,04MB;10/04/2018;14:45:22
-Teste 08;is creating Mconf layout sucessfully;FAILED;506,41MB;10/04/2018;14:46:25
-Teste 08;is creating Mconf layout sucessfully;FAILED;513,11MB;10/04/2018;14:47:30
-Teste 08;is creating Mconf layout sucessfully;FAILED;527,8MB;10/04/2018;14:49:09
-Teste 08;is creating Mconf layout sucessfully;FAILED;533,58MB;10/04/2018;14:49:45
-Teste 08;is creating Mconf layout sucessfully;FAILED;551,41MB;10/04/2018;14:51:46
-Teste 08;is creating Mconf layout sucessfully;FAILED;568,84MB;10/04/2018;14:53:24
-Teste 08;is creating Mconf layout sucessfully;FAILED;580,38MB;10/04/2018;14:54:41
-Teste 08;is creating Mconf layout sucessfully;FAILED;587,91MB;10/04/2018;14:55:33
-Teste 08;is creating Mconf layout sucessfully;FAILED;600,77MB;10/04/2018;14:56:59
-Teste 08;is creating Mconf layout sucessfully;FAILED;611,41MB;10/04/2018;14:58:34
-Teste 08;is creating Mconf layout sucessfully;FAILED;623,47MB;10/04/2018;14:59:56
-Teste 08;is creating Mconf layout sucessfully;FAILED;222,98MB;10/04/2018;15:10:18
-Teste 08;is creating Mconf layout sucessfully;FAILED;224,43MB;10/04/2018;15:10:28
-Teste 08;is creating Mconf layout sucessfully;PASSED;237,01MB;10/04/2018;15:11:43
-
-----------------------------
-Starting a new text suite on 10/04/2018;15:12:08
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;241,08MB;10/04/2018;15:12:08
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;241,08MB;10/04/2018;15:12:09
-Preconfigurator 03;The Test Room exists;PASSED;245,39MB;10/04/2018;15:12:16
-Preconfigurator 04; the second test machine is available;PASSED;243,59MB;10/04/2018;15:12:23
-Preconfigurator 05; Default Layout is applied; PASSED;244,24MB;10/04/2018;15:12:29
-Teste 01;MP has oppened correcty;PASSED;247,76MB;10/04/2018;15:12:33
-Teste 02;Microphone settings are working correctly;PASSED;251,84MB;10/04/2018;15:12:47
-Teste 03;selecting and unselecting camera is working correclty;PASSED;282,38MB;10/04/2018;15:13:08
-TEST SKIPPED DUE TO BUGS (loading rooms list);282,38MB;10/04/2018;15:13:08
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);285,38MB;10/04/2018;15:13:09
-Teste 05;The Test Room is available;PASSED;282,78MB;10/04/2018;15:13:14
-Teste 06;Checks if dial is ready;PASSED;286,43MB;10/04/2018;15:13:19
-Teste 07;Is rendering layouts correctly in New Layout window;PASSED;286,59MB;10/04/2018;15:13:39
-Teste 08;is creating Mconf layout sucessfully;PASSED;296,29MB;10/04/2018;15:14:41
-Teste 09;Is starting a call correctly;PASSED;300,49MB;10/04/2018;15:15:10
-Teste 10;Is Receiving Video Correctly;FAILED;304,28MB;10/04/2018;15:15:13
-Teste 11;Is finishing a call correctly;PASSED;302,06MB;10/04/2018;15:15:21
-Teste 16;There is a Mconf Room already configured;PASSED;302,92MB;10/04/2018;15:15:26
-Teste 17;is applying Mconf Layout ok;FAILED;308,81MB;10/04/2018;15:15:45
-Teste 18;is connecting to Mconf room;FAILED (all the following fails could be caused due to this bad Mconf room configuration);310,12MB;10/04/2018;15:15:50
-Teste 19;is receiving webcams and presentation;FAILED;310,27MB;10/04/2018;15:16:12
-Teste 20;is finishing a Mconf call correctly;FAILED;313,27MB;10/04/2018;15:16:12
-Teste 21;is MPBrowser stopping receiving webcams and presentations;FAILED;310,27MB;10/04/2018;15:16:13
-Teste 11;Is Starting an External call correctly;FAILED;313,16MB;10/04/2018;15:16:31
-Teste 12;Is Receiving External call Video Correctly;FAILED;316,68MB;10/04/2018;15:16:37
-Test 13;is Content share button syncronized with MP;FAILED;314,73MB;10/04/2018;15:16:42
-Test 14;is sharing content and stopping it correctly;FAILED;314,99MB;10/04/2018;15:16:43
-Teste 15;Is finishing an external call correctly;FAILED;317,99MB;10/04/2018;15:16:45
-
-The test suite above was concluded on 10/04/2018;15:16:45
-----------------------------
-----------------------------
-Starting a new text suite on 10/04/2018;15:49:17
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;635,13MB;10/04/2018;15:49:17
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;635,13MB;10/04/2018;15:49:18
-
-----------------------------
-Starting a new text suite on 10/04/2018;15:50:23
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;645,36MB;10/04/2018;15:50:23
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;645,36MB;10/04/2018;15:50:24
-Preconfigurator 03;The Test Room exists;PASSED;646,15MB;10/04/2018;15:50:31
-Preconfigurator 04; the second test machine is available;PASSED;647,46MB;10/04/2018;15:50:38
-Preconfigurator 05; Default Layout is applied; PASSED;648,77MB;10/04/2018;15:50:44
-Teste 01;MP has oppened correcty;PASSED;649,03MB;10/04/2018;15:50:48
-Teste 02;Microphone settings are working correctly;PASSED;651,27MB;10/04/2018;15:51:03
-Teste 03;selecting and unselecting camera is working correclty;PASSED;686,45MB;10/04/2018;15:51:24
-TEST SKIPPED DUE TO BUGS (loading rooms list);686,45MB;10/04/2018;15:51:24
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);683,45MB;10/04/2018;15:51:24
-Teste 05;The Test Room is available;PASSED;686,97MB;10/04/2018;15:51:30
-Teste 06;Checks if dial is ready;PASSED;683,97MB;10/04/2018;15:51:35
-Teste 07;Is rendering layouts correctly in New Layout window;PASSED;690,11MB;10/04/2018;15:51:55
-Teste 08;is creating Mconf layout sucessfully;PASSED;696,83MB;10/04/2018;15:52:57
-Teste 09;Is starting a call correctly;PASSED;700,95MB;10/04/2018;15:53:27
-Teste 10;Is Receiving Video Correctly;FAILED;701,22MB;10/04/2018;15:53:29
-Teste 11;Is finishing a call correctly;PASSED;705MB;10/04/2018;15:53:37
-Teste 16;There is a Mconf Room already configured;PASSED;703,05MB;10/04/2018;15:53:43
-Teste 17;is applying Mconf Layout ok;FAILED;706,94MB;10/04/2018;15:54:02
-Teste 18;is connecting to Mconf room;FAILED (all the following fails could be caused due to this bad Mconf room configuration);706,46MB;10/04/2018;15:54:07
-Teste 19;is receiving webcams and presentation;FAILED;709,88MB;10/04/2018;15:54:29
-Teste 20;is finishing a Mconf call correctly;FAILED;709,87MB;10/04/2018;15:54:30
-Teste 21;is MPBrowser stopping receiving webcams and presentations;FAILED;709,87MB;10/04/2018;15:54:30
-Teste 17;is applying Mconf Layout ok;FAILED;726,77MB;10/04/2018;15:56:03
-Teste 17;is applying Mconf Layout ok;PASSED;728,23MB;10/04/2018;15:56:33
-
-----------------------------
-Starting a new text suite on 10/04/2018;15:57:08
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;727,56MB;10/04/2018;15:57:09
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;728,35MB;10/04/2018;15:57:10
-
-----------------------------
-Starting a new text suite on 10/04/2018;15:57:43
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;740,03MB;10/04/2018;15:57:43
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;737,02MB;10/04/2018;15:57:44
-Preconfigurator 03;The Test Room exists;PASSED;741,07MB;10/04/2018;15:57:51
-Preconfigurator 04; the second test machine is available;PASSED;738,34MB;10/04/2018;15:57:59
-Preconfigurator 05; Default Layout is applied; PASSED;739,65MB;10/04/2018;15:58:04
-Teste 01;MP has oppened correcty;PASSED;743,7MB;10/04/2018;15:58:09
-Teste 02;Microphone settings are working correctly;PASSED;742,53MB;10/04/2018;15:58:23
-Teste 03;selecting and unselecting camera is working correclty;PASSED;776,85MB;10/04/2018;15:58:44
-TEST SKIPPED DUE TO BUGS (loading rooms list);773,85MB;10/04/2018;15:58:44
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);773,85MB;10/04/2018;15:58:44
-Teste 05;The Test Room is available;PASSED;774,11MB;10/04/2018;15:58:50
-Teste 06;Checks if dial is ready;PASSED;774,9MB;10/04/2018;15:58:55
-Teste 07;Is rendering layouts correctly in New Layout window;PASSED;777,71MB;10/04/2018;15:59:15
-Teste 08;is creating Mconf layout sucessfully;PASSED;789,64MB;10/04/2018;16:00:18
-Teste 09;Is starting a call correctly;PASSED;790,77MB;10/04/2018;16:00:48
-Teste 10;Is Receiving Video Correctly;FAILED;790,76MB;10/04/2018;16:00:51
-Teste 11;Is finishing a call correctly;PASSED;792,08MB;10/04/2018;16:00:59
-Teste 16;There is a Mconf Room already configured;PASSED;795,86MB;10/04/2018;16:01:04
-Teste 17;is applying Mconf Layout ok;PASSED;799,54MB;10/04/2018;16:01:32
-Teste 18;is connecting to Mconf room;FAILED (all the following fails could be caused due to this bad Mconf room configuration);796,38MB;10/04/2018;16:01:38
-Teste 19;is receiving webcams and presentation;FAILED;796,53MB;10/04/2018;16:01:59
-Teste 20;is finishing a Mconf call correctly;FAILED;796,53MB;10/04/2018;16:02:00
-Teste 21;is MPBrowser stopping receiving webcams and presentations;FAILED;796,53MB;10/04/2018;16:02:00
-Teste 18;is connecting to Mconf room;FAILED (all the following fails could be caused due to this bad Mconf room configuration);804,13MB;10/04/2018;16:02:55
-
-----------------------------
-Starting a new text suite on 10/04/2018;16:04:08
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;821,46MB;10/04/2018;16:04:09
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;818,46MB;10/04/2018;16:04:10
-Preconfigurator 03;The Test Room exists;PASSED;819,24MB;10/04/2018;16:04:17
-Preconfigurator 04; the second test machine is available;PASSED;820,55MB;10/04/2018;16:04:24
-Preconfigurator 05; Default Layout is applied; PASSED;821,34MB;10/04/2018;16:04:30
-Teste 01;MP has oppened correcty;PASSED;825,13MB;10/04/2018;16:04:34
-Teste 02;Microphone settings are working correctly;PASSED;823,44MB;10/04/2018;16:04:48
-Teste 03;selecting and unselecting camera is working correclty;PASSED;855,64MB;10/04/2018;16:05:09
-TEST SKIPPED DUE TO BUGS (loading rooms list);855,64MB;10/04/2018;16:05:10
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);855,64MB;10/04/2018;16:05:10
-Teste 05;The Test Room is available;PASSED;859,16MB;10/04/2018;16:05:15
-Teste 06;Checks if dial is ready;PASSED;859,43MB;10/04/2018;16:05:20
-Teste 07;Is rendering layouts correctly in New Layout window;PASSED;859,84MB;10/04/2018;16:05:40
-Teste 08;is creating Mconf layout sucessfully;PASSED;870,89MB;10/04/2018;16:06:44
-Teste 09;Is starting a call correctly;PASSED;874,83MB;10/04/2018;16:07:14
-Teste 10;Is Receiving Video Correctly;FAILED;872,36MB;10/04/2018;16:07:17
-Teste 11;Is finishing a call correctly;PASSED;873,14MB;10/04/2018;16:07:25
-Teste 16;There is a Mconf Room already configured;PASSED;877,19MB;10/04/2018;16:07:31
-Teste 17;is applying Mconf Layout ok;PASSED;880,34MB;10/04/2018;16:07:59
-Teste 18;is connecting to Mconf room;PASSED;885,66MB;10/04/2018;16:09:10
-Teste 19;is receiving webcams and presentation;FAILED;896,82MB;10/04/2018;16:09:32
-Teste 20;is finishing a Mconf call correctly;PASSED;900,07MB;10/04/2018;16:09:35
-Teste 21;is MPBrowser stopping receiving webcams and presentations;PASSED;897,6MB;10/04/2018;16:09:36
-Teste 11;Is Starting an External call correctly;FAILED;900,61MB;10/04/2018;16:10:04
-Teste 12;Is Receiving External call Video Correctly;FAILED;904,92MB;10/04/2018;16:10:09
-Test 13;is Content share button syncronized with MP;FAILED;903,75MB;10/04/2018;16:10:28
-
-----------------------------
-Starting a new text suite on 10/04/2018;16:37:01
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;256,06MB;10/04/2018;16:37:01
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;256,06MB;10/04/2018;16:37:02
-
-----------------------------
-Starting a new text suite on 10/04/2018;16:38:10
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;242,57MB;10/04/2018;16:38:11
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;242,57MB;10/04/2018;16:38:12
-Preconfigurator 03;The Test Room exists;PASSED;242,57MB;10/04/2018;16:38:18
-Preconfigurator 04; the second test machine is available;FAILED;242,57MB;10/04/2018;16:38:26
-Preconfigurator 05; Default Layout is applied; PASSED;242,57MB;10/04/2018;16:38:31
-Teste 01;MP has oppened correcty;PASSED;242,57MB;10/04/2018;16:38:35
-
-----------------------------
-Starting a new text suite on 10/04/2018;16:38:45
-
-#;description;status;ram;date;time
-Preconfiguration 01;Should have a MP opened;PASSED;242,57MB;10/04/2018;16:38:45
-Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;242,57MB;10/04/2018;16:38:46
-Preconfigurator 03;The Test Room exists;PASSED;242,57MB;10/04/2018;16:38:52
-Preconfigurator 04; the second test machine is available;FAILED;242,57MB;10/04/2018;16:39:00
-Preconfigurator 05; Default Layout is applied; PASSED;242,57MB;10/04/2018;16:39:05
-Teste 01;MP has oppened correcty;PASSED;242,57MB;10/04/2018;16:39:09
-Teste 02;Microphone settings are working correctly;PASSED;243,89MB;10/04/2018;16:39:23
-Teste 03;selecting and unselecting camera is working correclty;PASSED;290,4MB;10/04/2018;16:39:44
-TEST SKIPPED DUE TO BUGS (loading rooms list);290,4MB;10/04/2018;16:39:44
-TEST SKIPPED DUE TO BUGS (MP can't share two contents at same time);290,4MB;10/04/2018;16:39:45
-Teste 05;The Test Room is available;PASSED;289,63MB;10/04/2018;16:39:50
-Teste 06;Checks if dial is ready;PASSED;290,42MB;10/04/2018;16:39:55
-Teste 07;Is rendering layouts correctly in New Layout window;PASSED;291,98MB;10/04/2018;16:40:16
-Teste 08;is creating Mconf layout sucessfully;PASSED;300,19MB;10/04/2018;16:41:21
-Teste 09;Is starting a call correctly;FAILED;302,61MB;10/04/2018;16:41:37
-Teste 10;Is Receiving Video Correctly;FAILED;302,87MB;10/04/2018;16:41:40
+MP has oppened correcty;PASSED;978,6MB;13/04/2018;13:56:25
+Teste 02;Microphone settings are working correctly;PASSED;983,7MB;13/04/2018;13:56:43
+Teste 03;selecting and unselecting camera is working correclty;PASSED;1013,02MB;13/04/2018;13:57:07
+MP has oppened correcty;PASSED;182,21MB;13/04/2018;14:39:43
+MP has oppened correcty;PASSED;188,8MB;13/04/2018;14:40:22
+MP has oppened correcty;PASSED;1083,71MB;13/04/2018;16:09:21
+Preconfigurator 03;The Test Room is exists;FAILED;MB;13/04/2018;16:19:19
+Preconfigurator 05; Default Layout is applied; FALSE;MB;13/04/2018;16:19:45
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;MB;13/04/2018;16:19:48
+Preconfigurator 03;The Test Room is exists;FAILED;MB;13/04/2018;16:20:27
+Preconfigurator 05; Default Layout is applied; FALSE;MB;13/04/2018;16:20:42
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;MB;13/04/2018;16:20:48
+Preconfigurator 03;The Test Room is exists;FAILED;MB;13/04/2018;16:23:26
+Preconfigurator 05; Default Layout is applied; FALSE;MB;13/04/2018;16:23:41
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;MB;13/04/2018;16:23:44
+Preconfiguration 01;Should have a MP opened;PASSED;MB;13/04/2018;16:27:21
+Preconfigurator 03;The Test Room is exists;FAILED;MB;13/04/2018;16:27:34
+Preconfiguration 01;Should have a MP opened;PASSED;MB;13/04/2018;16:33:30
+Preconfigurator 03;The Test Room exists;PASSED;179,98MB;13/04/2018;16:33:50
+Preconfigurator 05; Default Layout is applied; PASSED;180,25MB;13/04/2018;16:34:00
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;181,04MB;13/04/2018;16:34:04
+Preconfiguration 01;Should have a MP opened;PASSED;204,58MB;13/04/2018;16:36:40
+Preconfigurator 03;The Test Room exists;PASSED;208,37MB;13/04/2018;16:36:48
+Preconfigurator 05; Default Layout is applied; PASSED;209,68MB;13/04/2018;16:36:56
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;206,94MB;13/04/2018;16:36:59
+Browser is set to www.google.com;PASSED;208,5MB;13/04/2018;16:37:04
+Preconfiguration 01;Should have a MP opened;PASSED;182,74MB;16/04/2018;12:53:10
+Preconfigurator 03;The Test Room is exists;FAILED;178,56MB;16/04/2018;12:53:24
+Preconfigurator 05; Default Layout is applied; FALSE;179,68MB;16/04/2018;12:53:31
+Preconfiguration 01;Should have a MP opened;PASSED;177,54MB;16/04/2018;13:21:42
+Preconfiguration 01;Should have a MP opened;PASSED;822,51MB;16/04/2018;14:26:55
+Preconfigurator 03;The Test Room exists;PASSED;823,82MB;16/04/2018;14:27:03
+Preconfigurator 05; Default Layout is applied; PASSED;825,13MB;16/04/2018;14:27:11
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;828,65MB;16/04/2018;14:27:14
+Browser is set to www.google.com;PASSED;826,44MB;16/04/2018;14:27:20
+Preconfiguration 01;Should have a MP opened;PASSED;838,88MB;16/04/2018;14:28:15
+Preconfiguration 01;Should have a MP opened;PASSED;845,85MB;16/04/2018;14:29:16
+Preconfiguration 01;Should have a MP opened;PASSED;863,8MB;16/04/2018;14:30:45
+Preconfigurator 03;The Test Room exists;PASSED;861,85MB;16/04/2018;14:30:53
+Preconfigurator 05; Default Layout is applied; PASSED;862,9MB;16/04/2018;14:31:01
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;863,43MB;16/04/2018;14:31:03
+Browser is set to www.google.com;PASSED;864,47MB;16/04/2018;14:31:09
+Preconfiguration 01;Should have a MP opened;PASSED;942,23MB;16/04/2018;14:38:40
+Preconfigurator 03;The Test Room exists;PASSED;940,28MB;16/04/2018;14:38:48
+Preconfigurator 05; Default Layout is applied; PASSED;941,85MB;16/04/2018;14:38:56
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;945,38MB;16/04/2018;14:38:58
+Browser is set to www.google.com;PASSED;943,16MB;16/04/2018;14:39:04
+MP has oppened correcty;PASSED;943,16MB;16/04/2018;14:39:06
+Microphone settings are working correctly;PASSED;950,5MB;16/04/2018;14:39:23
+is Selecting and unselecting camera is working correclty;PASSED;979,15MB;16/04/2018;14:39:46
+Preconfiguration 01;Should have a MP opened;PASSED;1091,9MB;16/04/2018;14:43:45
+Preconfigurator 03;The Test Room exists;PASSED;1096,73MB;16/04/2018;14:43:53
+Preconfigurator 05; Default Layout is applied; PASSED;1094,52MB;16/04/2018;14:44:01
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;1095,04MB;16/04/2018;14:44:04
+Browser is set to www.google.com;PASSED;1098,56MB;16/04/2018;14:44:10
+MP has oppened correcty;PASSED;1095,83MB;16/04/2018;14:44:12
+Preconfiguration 01;Should have a MP opened;PASSED;1236,42MB;16/04/2018;15:01:12
+Preconfigurator 03;The Test Room exists;PASSED;1239,94MB;16/04/2018;15:01:21
+Preconfigurator 05; Default Layout is applied; PASSED;1241,11MB;16/04/2018;15:01:29
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;1241,64MB;16/04/2018;15:01:31
+Browser is set to www.google.com;PASSED;1239,69MB;16/04/2018;15:01:37
+MP has oppened correcty;PASSED;1239,95MB;16/04/2018;15:01:39
+Microphone settings are working correctly;PASSED;1242,46MB;16/04/2018;15:01:56
+is Selecting and unselecting camera is working correclty;PASSED;1273,88MB;16/04/2018;15:02:20
+Sttressing camera selection doesn't crash MP;PASSED;1357,73MB;16/04/2018;15:02:55
+Teste 05;The Test Room is available;PASSED;1363,36MB;16/04/2018;15:03:16
+Teste 06;Checks if dial is ready;PASSED;1362,46MB;16/04/2018;15:03:33
+Teste 07;Is rendering layouts correctly in New Layout window;PASSED;1368,6MB;16/04/2018;15:03:55
+Teste 08;is creating Mconf layout sucessfully;FAILED;1371,05MB;16/04/2018;15:04:34
+Preconfiguration 01;Should have a MP opened;PASSED;1435,18MB;16/04/2018;15:11:57
+Preconfigurator 03;The Test Room exists;PASSED;1432,97MB;16/04/2018;15:12:05
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;1434,29MB;16/04/2018;15:12:12
+MP has oppened correcty;PASSED;1434,8MB;16/04/2018;15:12:19
+Microphone settings are working correctly;PASSED;1440,43MB;16/04/2018;15:12:34
+Preconfiguration 01;Should have a MP opened;PASSED;1462,45MB;16/04/2018;15:13:43
+Preconfigurator 03;The Test Room exists;PASSED;1463,5MB;16/04/2018;15:13:50
+Preconfigurator 05; Default Layout is applied; PASSED;1464,29MB;16/04/2018;15:13:58
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED;1464,55MB;16/04/2018;15:14:00
+Browser is set to www.google.com;PASSED;1465,34MB;16/04/2018;15:14:05
+MP has oppened correcty;PASSED;1466,1MB;16/04/2018;15:14:06
+Microphone settings are working correctly;PASSED;1470,96MB;16/04/2018;15:14:22
+is Selecting and unselecting camera is working correclty;PASSED;1500,29MB;16/04/2018;15:14:45
+Sttressing camera selection doesn't crash MP;PASSED;1585,02MB;16/04/2018;15:15:20
+Teste 05;The Test Room is available;PASSED;1588,55MB;16/04/2018;15:15:26
+Teste 06;Checks if dial is ready;PASSED;1586,61MB;16/04/2018;15:15:33
+Teste 07;Is rendering layouts correctly in New Layout window;PASSED;1589,49MB;16/04/2018;15:15:54
+Teste 08;is creating Mconf layout sucessfully;PASSED;1597,55MB;16/04/2018;15:16:57
+Teste 09;Is starting a call correctly;FAILED;2837,79MB;16/04/2018;17:20:38
+Preconfiguration 01;Should have a MP opened;PASSED;180,52MB;16/04/2018;17:36:06
+Preconfigurator 03;The Test Room exists;PASSED;179,9MB;16/04/2018;17:36:13
+Preconfigurator 05; Default Layout is applied; PASSED;183,64MB;16/04/2018;17:36:20
+Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED;183,91MB;16/04/2018;17:36:21
+Browser is set to www.google.com;PASSED;181,83MB;16/04/2018;17:36:26
+MP has oppened correcty;PASSED;181,96MB;16/04/2018;17:36:28
+Microphone settings are working correctly;PASSED;188,43MB;16/04/2018;17:36:43
+is Selecting and unselecting camera is working correclty;PASSED;218,59MB;16/04/2018;17:37:05
+Sttressing camera selection doesn't crash MP;PASSED;308,11MB;16/04/2018;17:37:40
+Teste 05;The Test Room is available;PASSED;305,9MB;16/04/2018;17:37:46
+Teste 06;Checks if dial is ready;PASSED;306,56MB;16/04/2018;17:37:52
+Teste 07;Is rendering layouts correctly in New Layout window;PASSED;312,37MB;16/04/2018;17:38:14
+Teste 08;is creating Mconf layout sucessfully;PASSED;317,68MB;16/04/2018;17:39:17

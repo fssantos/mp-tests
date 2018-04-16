@@ -10,8 +10,8 @@ DELAY : 3000
 ENDIF
 SWITCH TO WINDOW : ^(?!.*Room).*Multipresença.*$ : 1
 IF CLIPBOARD EQUALS : 1 : 0 : 0
-SET CLIPBOARD : Teste 01;MP has oppened correcty;PASSED : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : MP has oppened correcty;PASSED : 0 : Please enter the text to store in clipboard:
 ELSE
-SET CLIPBOARD : Teste 01;MP has oppened correcty;FAILED : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : MP has oppened correcty;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
 PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

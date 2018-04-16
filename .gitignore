@@ -1,1 +1,7 @@
 MPTestSuite/reports/
+vm-test-sync-client/node_modules/
+vm-test-sync-server/node_modules/
+vm-test-sync-server/config/
+vm-test-sync-client/config/
+vm-test-sync-client/reports/
+vm-test-sync-server/reports/

@@ -7,3 +7,5 @@ Keyboard : A : KeyUp
 TYPE TEXT : https://www.google.com
 Keyboard : Enter : KeyPress
 DELAY : 2000
+SET CLIPBOARD : Browser is set to www.google.com;PASSED : 0 : Please enter the text to store in clipboard:
+PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr
