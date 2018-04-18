@@ -40,7 +40,7 @@ function runTestScript(scriptToExecute, callback) {
             return;
         }
 
-        readLastLine.read('../reports/Tests_Report.txt', 1).
+        readLastLine.read('../reports/logs.txt', 1).
             then((line) => { callback(line) }).
             catch((error) => console.log(error));
     });

@@ -12,8 +12,8 @@ ENDIF
 ENDIF
 COMMENT : if 1 test passed, else failed
 IF CLIPBOARD EQUALS : 1 : 0 : 0
-SET CLIPBOARD : Teste 11;Is finishing a call correctly;PASSED : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : CALL_TEST04;Is able to finishing a call;PASSED : 0 : Please enter the text to store in clipboard:
 ELSE
-SET CLIPBOARD : Teste 11;Is finishing a call correctly;FAILED : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : CALL_TEST04;Is able to finishing a call;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
 PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

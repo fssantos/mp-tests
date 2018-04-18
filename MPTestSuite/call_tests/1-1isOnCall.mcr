@@ -9,6 +9,6 @@ ENDIF
 IF CLIPBOARD EQUALS : 1 : 0 : 0
 SET CLIPBOARD : 1-1_CALL_02;is On a Call;PASSED : 0 : Please enter the text to store in clipboard:
 ELSE
-SET CLIPBOARD : 1-1_CALL_02;is On a Call;PASSED : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : 1-1_CALL_02;is On a Call;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
 PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr
