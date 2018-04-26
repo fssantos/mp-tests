@@ -4,7 +4,6 @@ var testCounter = 1;
 
 exports.startTests = function (connectedMachines, testsScriptQueue) {
 
-
     testCounter = 1;
     logger = fs.createWriteStream(`./reports/server_log_${Date.now()}.txt`, {
         flags: 'a'
@@ -50,4 +49,5 @@ function finishTestSession() {
     console.log('All tests were executed');
     logger.end(); //closes stream on report txt.file
 }
+
 
