@@ -4,8 +4,8 @@ IF IMAGE : Qk3WXQMAAAAAADYAAAAoAAAAxAEAAHoAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAA
 SET CLIPBOARD : 1 : 0 : Please enter the text to store in clipboard:
 ENDIF
 IF CLIPBOARD EQUALS : 1 : 0 : 0
-SET CLIPBOARD : Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;PASSED : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : Preconfigurator 04; There is an open Mconf Room on lab.mconf.br;PASSED : 0 : Please enter the text to store in clipboard:
 ELSE
-SET CLIPBOARD : Preconfigurator 02; There is an open Mconf Room on lab.mconf.br;FAILED : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : Preconfigurator 04; There is an open Mconf Room on lab.mconf.br;FAILED : 0 : Please enter the text to store in clipboard:
 ENDIF
 PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr

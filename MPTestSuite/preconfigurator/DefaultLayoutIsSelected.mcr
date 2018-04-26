@@ -27,8 +27,8 @@ IF IMAGE : Qk2WqgYAAAAAADYAAAAoAAAASAIAALsAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAA
 SET CLIPBOARD : 1 : 0 : Please enter the text to store in clipboard:
 ENDIF
 IF CLIPBOARD EQUALS : 1 : 0 : 0
-SET CLIPBOARD : Preconfigurator 05; Default Layout is applied; PASSED : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : Preconfigurator 03; Default Layout is applied; PASSED : 0 : Please enter the text to store in clipboard:
 ELSE
-SET CLIPBOARD : Preconfigurator 05; Default Layout is applied; FALSE : 0 : Please enter the text to store in clipboard:
+SET CLIPBOARD : Preconfigurator 03; Default Layout is applied; FALSE : 0 : Please enter the text to store in clipboard:
 ENDIF
 PLAY MACRO : ..\tools\tool_writeResultToCsV.mcr
