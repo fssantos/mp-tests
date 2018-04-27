@@ -1,6 +1,6 @@
 SET CLIPBOARD : 0 : 0 : Please enter the text to store in clipboard:
 Keyboard : Enter : KeyPress
-IF PROCESS EXISTS : Multipresenca
+IF PROCESS EXISTS : Chrome
 SET CLIPBOARD : 1 : 0 : Please enter the text to store in clipboard:
 ELSE
 OPEN FILE : C:\Program Files (x86)\Google\Chrome\Application\chrome.exe :  : 0
