@@ -6,7 +6,7 @@ module.exports = {
             name: "tu ta numa chamada?",
             description: "Master machine has called one slave and the slave machine tablet interface should be on call mode",
             slave: ["Lucy"],
-            scriptToExecute: "layout_tests/isMyTestRoomAvailable.mcr"
+            scriptToExecute: "layout_tests/isTestRoomAvailable.mcr"
         },
         {
             name: "tu ta numa chamada?",

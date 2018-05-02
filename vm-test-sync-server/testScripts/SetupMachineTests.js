@@ -29,7 +29,7 @@ module.exports = {
             name: "tu ta numa chamada?",
             description: "Master machine has called one slave and the slave machine tablet interface should be on call mode",
             slave: ["Lucy"],
-            scriptToExecute: "preconfigurator/isAMconfRoomAvailable.mcr"
+            scriptToExecute: "preconfigurator/isAMconfRoomConfigured.mcr"
         },
         {
             name: "tu ta numa chamada?",
